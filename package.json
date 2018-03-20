@@ -1,0 +1,16 @@
+{
+  "name": "htteepee",
+  "version": "1.0.0",
+  "description": "Super simple node api server",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Sam Kuhlmann",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.2"
+  }
+}
