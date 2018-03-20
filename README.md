@@ -14,7 +14,7 @@ Endpoints:
 - POST thing: `http://localhost:3000/things`
   - requires a body, ie. `{name: 'Churro'}`
 - PUT thing: `http://localhost:3000/thing/18`
-  - requires a body, ie. `{name: 'Donut'}`
+  - requires a body, ie. `{name: 'Cronut'}`
 - DELETE thing: `http://localhost:3000/thing/18`
 
 Edit the data to your liking at `data/data.js`
